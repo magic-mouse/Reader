@@ -1,0 +1,1 @@
+java MainReader "http://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=euro+sell" ./googleParse.txt
